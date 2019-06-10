@@ -1,7 +1,7 @@
 # SeleniumTestProject
 *Bu uygulama Software Testing (Yazılım Sınama) dersi için Selenium Web Driver kulanılarak geliştirilmiştir.*
 
-#### Test Case (Register Test Case)
+#### TEST CASE-1 (Register Test Case)
 <table style="width:100%">
   <tr>
     <td>Risk level</td>
@@ -38,3 +38,7 @@ sağ üst kısımdan “kayıt ol” butonuna tıklar ve ardından gelen ekranda
     <td>Başarılı</td>
   </tr>
 </table>
+
+#### Projedeki Diğer Testler:
+#### TEST CASE-2 (Login and Logout Test ase)
+#### TEST CASE-3 (Change Password Test Case)
